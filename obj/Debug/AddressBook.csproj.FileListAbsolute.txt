@@ -1,0 +1,14 @@
+C:\C#Programs\AddressBook\AddressBook\obj\Debug\AddressBook.csprojResolveAssemblyReference.cache
+C:\C#Programs\AddressBook\AddressBook\obj\Debug\AddressBook.Form1.resources
+C:\C#Programs\AddressBook\AddressBook\obj\Debug\AddressBook.Properties.Resources.resources
+C:\C#Programs\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.GenerateResource.Cache
+C:\C#Programs\AddressBook\AddressBook\obj\Debug\AddressBook.splashScreen.resources
+C:\C#Programs\AddressBook\AddressBook\bin\Debug\Address Book.exe.config
+C:\C#Programs\AddressBook\AddressBook\bin\Debug\Address Book.exe.manifest
+C:\C#Programs\AddressBook\AddressBook\bin\Debug\Address Book.application
+C:\C#Programs\AddressBook\AddressBook\bin\Debug\Address Book.exe
+C:\C#Programs\AddressBook\AddressBook\bin\Debug\Address Book.pdb
+C:\C#Programs\AddressBook\AddressBook\obj\Debug\Address Book.exe.manifest
+C:\C#Programs\AddressBook\AddressBook\obj\Debug\Address Book.application
+C:\C#Programs\AddressBook\AddressBook\obj\Debug\Address Book.exe
+C:\C#Programs\AddressBook\AddressBook\obj\Debug\Address Book.pdb
